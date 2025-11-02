@@ -35,11 +35,13 @@ The dashboard allows users to explore metrics such as:
 - **Data Modeling:** Relationships between multiple tables  
 - **Visualizations:** Line Charts, Bar Charts, Maps, Cards, and Slicers
 
--
+---
+
+## 📂 File Included
 
 | File Name        | Description |
 |------------------|-------------|
-|   | Power BI file containing the Global Sales Performance Dashboard |
+| `Task_01.pbix`   | Power BI file containing the Global Sales Performance Dashboard |
 
 ---
 
